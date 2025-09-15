@@ -1,0 +1,16 @@
+{
+  "name": "tiny-texture-ai-inventory",
+  "version": "1.0.0",
+  "description": "An AI-powered inventory management system.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tiny Texture",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^4.18.2",
+    "groq-sdk": "^0.3.1"
+  }
+}
